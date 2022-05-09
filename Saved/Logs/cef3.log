@@ -1,0 +1,7 @@
+[0327/125006.343:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 45
+[0327/125008.005:ERROR:device_event_log_impl.cc(208)] [12:50:08.006] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
+[0327/125230.496:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0327/125230.496:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0327/125230.496:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0327/125230.497:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0327/125508.220:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 1

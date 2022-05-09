@@ -1,0 +1,5 @@
+2022/03/27-12:52:07.649 9434 Reusing MANIFEST C:/Users/Ariel/Documents/Unreal Projects/PrototipadoRapido/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/03/27-13:20:15.208 7590 Level-0 table #5: started
+2022/03/27-13:20:15.231 7590 Level-0 table #5: 1200 bytes OK
+2022/03/27-13:20:15.237 7590 Delete type=0 #3
+2022/03/27-13:20:15.237 7590 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

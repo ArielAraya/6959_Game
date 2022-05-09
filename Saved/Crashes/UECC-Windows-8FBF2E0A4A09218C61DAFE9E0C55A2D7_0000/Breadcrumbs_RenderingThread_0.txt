@@ -1,0 +1,6 @@
+Breadcrumbs 'RenderingThread'
+Context 1/2
+	00 Scene
+	01 LumenSceneLighting
+	02 DirectLighting
+	03 CullTiles 88 lights
